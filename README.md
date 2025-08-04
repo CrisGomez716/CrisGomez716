@@ -12,14 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Connect with me on LinkedIn](https://www.linkedin.com/in/cristopher-gomez-695638214/)
 
-[facebook]: https://www.facebook.com/Cris
-[instagram]: https://www.instagram.com/Cris
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-gomez-695638214/)
-
+[Follow me on Instagram](https://www.instagram.com/chris._.gomez/)
 
 
 <!--
