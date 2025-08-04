@@ -18,7 +18,8 @@
 
 [facebook]: https://www.facebook.com/Cris
 [instagram]: https://www.instagram.com/Cris
-[linkedin]:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-gomez-695638214/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-gomez-695638214/)
+
 
 
 <!--
