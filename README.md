@@ -18,7 +18,8 @@
 
 [facebook]: https://www.facebook.com/Cris
 [instagram]: https://www.instagram.com/Cris
-[linkedin]: [https://linkedin.com/in/Cris](https://www.linkedin.com/in/cristopher-gomez-695638214/)
+[linkedin]:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-gomez-695638214/)
+
 
 <!--
 **CrisGomez716/CrisGomez716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
