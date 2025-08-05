@@ -15,7 +15,6 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/cristopher-gomez-695638214/)
 
-[Follow me on Instagram](https://www.instagram.com/chris._.gomez/)
 
 
 <!--
