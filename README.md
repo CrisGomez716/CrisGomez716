@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+-  [Azure: Resource Group and virtual machine](https://github.com/CrisGomez716/azure-VM)
   - [osTicket: Prerequisites and Installation](https://github.com/CrisGomez716/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CrisGomez716/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CrisGomez716/ticket-lifecycle)
