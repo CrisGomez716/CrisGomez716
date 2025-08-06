@@ -6,7 +6,7 @@
 -  [Azure: Resource Group and virtual machine](https://github.com/CrisGomez716/azure-VM)
   - [osTicket: Prerequisites and Installation](https://github.com/CrisGomez716/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CrisGomez716/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/CrisGomez716/ticket-lifecycle)
+    
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CrisGomez716/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CrisGomez716/azure-network-protocols)
